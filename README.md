@@ -3,6 +3,7 @@
 The data is sourced from <a href='https://www.yelp.com/dataset' target='_blank'>Yelp</a>. Yelp provides a huge datasets for anyone to practice on projects.
 
 Here, we are going to perform
+
  **1. Sentiment Analysis
  2. WordCloud Analysis
  3. Emoji's Analysis** 
